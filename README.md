@@ -1,6 +1,6 @@
 # connect4-with-AI
 
-Based on a tutorial created by Keith Galli: https://www.youtube.com/watch?v=UYgyRArKDEs&t=5s
+Based on a tutorial created by Keith Galli: https://www.youtube.com/watch?v=UYgyRArKDEs
 <br>
 Created for an AI university course 
 <br>
