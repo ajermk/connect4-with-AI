@@ -1,0 +1,26 @@
+# dont change
+PLAYER1_PIECE = 1
+PLAYER1_TURN = 0
+PLAYER2_TURN = 1
+AI_TURN = 1
+PLAYER2_PIECE = 2
+EMPTY = 0
+# can change
+ROW_COUNT = 6
+COLUMN_COUNT = 7
+
+WINNING_CONSECUTIVE_PIECES = 4
+WINDOW_LENGTH = 4 
+BLUE = (102,107,255)
+BRIGHT_BLUE = (50,105,255)
+BLACK = (0,0,0)
+YELLOW = (235,235,0)
+BRIGHT_YELLOW = (255,255,0)
+RED = (235,0,0)
+BRIGHT_RED = (255,0,0)
+WHITE = (255,255,255)
+SQUARESIZE = 100
+BROWN = (160,82,45) #unused
+RADIUS = int(SQUARESIZE/2 - 7) # take squaresize and divide it in two, minus 7px so all circles on board dont overlap
+
+
